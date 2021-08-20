@@ -5,13 +5,13 @@ pipeline{
             steps{
             echo 'main-stage1 is done'
  
-            }
+        }
         }
         stage('stage-2'){
             steps{
             echo 'main-stage2 is done'
  
-            }
+        }
         }
         stage('stage-3'){
             steps{
