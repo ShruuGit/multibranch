@@ -11,7 +11,7 @@ pipeline{
             steps{
             echo 'branch-stage2 is done'
  
-            }
+        }
         }
         stage('stage-3'){
             steps{
